@@ -21,5 +21,5 @@ This project presents a metasurface-based electromagnetic absorber designed for 
 
 ## Measurement Setup
 
-The absorption performance of the fabricated prototype was experimentally validated using a free-space measurement setup with two ultra-wideband Vivaldi antennas (7–18 GHz), configured as transmit and receive antennas to capture the reflection response of the absorber sample.
+The absorption performance of the fabricated prototype was experimentally validated using a free-space measurement setup with two ultra-wideband Vivaldi antennas (7–15 GHz), configured as transmit and receive antennas to capture the reflection response of the absorber sample.
 
