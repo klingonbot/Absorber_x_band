@@ -19,3 +19,7 @@ This project presents a metasurface-based electromagnetic absorber designed for 
 - **Polarization insensitivity:** Fourfold symmetry gives similar response for TE- and TM-polarized incidence
 - **Angular stability:** Stable absorption performance for oblique incidence up to ±20°
 
+## Measurement Setup
+
+The absorption performance of the fabricated prototype was experimentally validated using a free-space measurement setup with two ultra-wideband Vivaldi antennas (7–18 GHz), configured as transmit and receive antennas to capture the reflection response of the absorber sample.
+
